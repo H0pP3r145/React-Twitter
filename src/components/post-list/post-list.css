@@ -1,0 +1,17 @@
+.app-list {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.app-list .list-group-item {
+  padding: 20px 35px 10px 35px;
+  margin-top: 10px;
+}
+
+.app-list-container {
+  width: 1000px;
+  margin: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: stretch;
+}
